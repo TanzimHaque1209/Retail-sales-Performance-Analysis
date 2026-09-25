@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price
+101,Laptop,Electronics,1200
+102,Smartphone,Electronics,800
+103,Tablet,Electronics,600
+104,Office Chair,Furniture,150
+105,Desk,Furniture,350
+106,Printer,Electronics,300
+107,Monitor,Electronics,250
+108,Keyboard,Accessories,50
+109,Mouse,Accessories,30
+110,Bookshelf,Furniture,200
+111,Headphones,Accessories,90
+112,Webcam,Accessories,80
+113,Projector,Electronics,700
+114,Whiteboard,Office Supplies,50
+115,Notebook,Office Supplies,10
+116,External Hard Drive,Electronics,120
+117,USB Flash Drive,Accessories,25
+118,Laptop Stand,Accessories,45
+119,Desk Lamp,Office Supplies,35
+120,Filing Cabinet,Furniture,180
+121,Router,Electronics,110
+122,Mechanical Keyboard,Accessories,95
+123,Wireless Mouse,Accessories,55
+124,Standing Desk,Furniture,500
+125,Ergonomic Chair,Furniture,280
+126,Paper Ream,Office Supplies,8
+127,Stapler,Office Supplies,12
+128,Desk Organizer,Office Supplies,20
+129,Coffee Maker,Home Appliances,85
+130,Electric Kettle,Home Appliances,45
+131,Air Purifier,Home Appliances,180
+132,Mini Fridge,Home Appliances,250
+133,Microwave Oven,Home Appliances,160
+134,Bluetooth Speaker,Electronics,75
+135,Smartwatch,Electronics,220
+136,Power Bank,Accessories,40
+137,HDMI Cable,Accessories,15
+138,Marker Set,Office Supplies,18
+139,Office Sofa,Furniture,650
+140,Shredder,Office Supplies,95
